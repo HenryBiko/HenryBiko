@@ -1,6 +1,6 @@
 ### Hi there I am Henry 👋
 
-I am Henry Biko, a Data Scientist and Machine Learning Engineer. I am graduating from Minerva University in December 2021 with a degree in Computational Science.
+I am Henry Biko, a Data Scientist and Machine Learning Engineer. I graduated from Minerva University in December  17th 2021 with a degree in Computational Science: Concentrations(Artificial Intelligence, Applied Problem Solving & Data Science and Statistics)
 
 I enjoy bridging the gap between analytics and decision-making — combining my technical knowledge and passion for solving problems and identifying patterns within data. For the past four years, I have traveled the world with my school working on different projects such as time series predicting carbon emission by 2030, cloth image classification with TensorFlow, simulation of physical systems, sentimental analysis with Natural Language processing. 
 
