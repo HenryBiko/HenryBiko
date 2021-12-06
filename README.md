@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there I am Henry 👋
 
-
-**HenryBiko/HenryBiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am a Machine Learning Engineer and Data Scientist 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
