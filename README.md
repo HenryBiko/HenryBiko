@@ -3,6 +3,9 @@
 I am a Machine Learning Engineer and Data Scientist 
 
 ## Skills and Expertise
+Programming Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn, PySpark, Sympy ,Tensorflow,Seaborn, Shap, Keras,Scipy) R, SQL, HTML, Mathlab,OCtave
+<br>
+Machine Learning: Supervised Learning (Linear Models, Tree-based Models), Unsupervised Learning (Clustering, PCA)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
