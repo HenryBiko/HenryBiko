@@ -7,7 +7,7 @@ I enjoy bridging the gap between analytics and decision-making — combining my 
 I also relish the challenge of engaging with projects that require me to work outside my comfort zone and knowledge set, as I continue to learn new languages and development techniques
 
 ## Skills and Expertise
-**Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, PySpark, Sympy ,Tensorflow,Seaborn, Shap, Keras,Scipy) R, SQL, HTML, Mathlab,OCtave
+**Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, PySpark, Sympy ,Tensorflow,Seaborn, Shap, Keras,Scipy) R, SQL, HTML, Mathlab,Octave
 <br>
 **Machine Learning**: Supervised Learning (Linear Models, Tree-based Models), Unsupervised Learning (Clustering, PCA)
 
