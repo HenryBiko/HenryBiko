@@ -8,9 +8,9 @@ I also relish the challenge of engaging with projects that require me to work ou
 
 ## [Skills and Expertise](https://github.com/HenryBiko?tab=repositories)
 **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, PySpark, Sympy ,Tensorflow,Seaborn, Shap, Keras,Scipy) R, SQL, HTML, Mathlab,Octave
-<br>
+<br><br>
 **Machine Learning**: Supervised Learning (Linear Models, Tree-based Models), Unsupervised Learning (Clustering, PCA)
-<br>
+<br><br>
 **Frameworks & Other**: Docker, Flask, Plotly Dash, Bootstrap, WordPress, Git, Anaconda
 
 
