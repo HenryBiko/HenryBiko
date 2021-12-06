@@ -1,4 +1,4 @@
-### Hi there I am Henry 👋
+### Hi there I am [Henry] (https://www.linkedin.com/in/henrybiko/) 👋
 
 I am Henry Biko, a Data Scientist and Machine Learning Engineer. I graduated from Minerva University in December  17th 2021 with a degree in Computational Science: Concentrations(Artificial Intelligence, Applied Problem Solving & Data Science and Statistics)
 
