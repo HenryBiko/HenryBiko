@@ -11,6 +11,6 @@ I also relish the challenge of engaging with projects that require me to work ou
 <br><br>
 **Machine Learning**: Supervised Learning (Linear Models, Tree-based Models), Unsupervised Learning (Clustering, PCA)
 <br><br>
-**Frameworks & Other**: Docker, Flask, Plotly Dash, Bootstrap, WordPress, Git, Anaconda
+**Frameworks & Other**: Docker, Flask, Plotly Dash, Bootstrap, WordPress, Git, Anaconda,Tableau
 
 
