@@ -8,11 +8,17 @@ I also relish the challenge of engaging with projects that require me to work ou
 
 ## Current Position & Projects
 **Data Scientist | Machine learning Engineer | Rite Pros Consulting** 
+<br><br>
 1
+<br><br>
 2
+<br><br>
 3
+<br><br>
 4
+<br><br>
 5
+<br><br>
 6
 
 ## [Skills and Expertise](https://github.com/HenryBiko?tab=repositories)
