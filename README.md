@@ -7,7 +7,7 @@ I enjoy bridging the gap between analytics and decision-making — combining my 
 I also relish the challenge of engaging with projects that require me to work outside my comfort zone and knowledge set, as I continue to learn new languages and development techniques
 
 ## Current Position & Projects
-**Data Scientist| Machine learning Engineer | Rite Pros Consulting Co- santa Clara**         Sept 25th 2021--> Current
+**Data Scientist || Machine learning Engineer || Rite Pros Consulting **         
 
 ## [Skills and Expertise](https://github.com/HenryBiko?tab=repositories)
 **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, PySpark, Sympy ,Tensorflow,Seaborn, Shap, Keras,Scipy) R, SQL, HTML, Matlab,Octave
