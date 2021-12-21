@@ -7,7 +7,7 @@ I enjoy bridging the gap between analytics and decision-making — combining my 
 I also relish the challenge of engaging with projects that require me to work outside my comfort zone and knowledge set, as I continue to learn new languages and development techniques
 
 ## Current Position & Projects
-**Data Scientist | Machine learning Engineer | Rite Pros Consulting** 
+**Data Scientist | Machine learning Engineer | [Rite Pros Consulting](http://www.ritepros.com/index.php)** 
 <br><br>
 1
 <br><br>
