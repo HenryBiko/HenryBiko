@@ -8,7 +8,7 @@ I also relish the challenge of engaging with projects that require me to work ou
 
 ## Current Position & Projects
 **Data Scientist | Machine learning Engineer | [Rite Pros Consulting](http://www.ritepros.com/index.php)** 
-<br><br>
+<br>
 * Define customer needs and objectives in building hybrid lakes in the context of capturing data in the landing zone, data cleaning, data munging for analytical models.
 * Assist and participate in the configuration of inbuilt features as strategy builder, strategy processor, discover sources of ingestion, create a relevant workflow for data processing, define schema comparator parameters, create data pipeline.
 * Design and develop complex data pipelines to enrich existing ELT processes.
