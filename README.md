@@ -7,7 +7,7 @@ I enjoy bridging the gap between analytics and decision-making — combining my 
 I also relish the challenge of engaging with projects that require me to work outside my comfort zone and knowledge set, as I continue to learn new languages and development techniques
 
 ## Current Position & Projects
-**Data Scientist | Machine learning Engineer | [Rite Pros Inc |]((http://www.ritepros.com/index.php))[Client: Rawcubes](https://www.rawcubes.com/)** 
+**Data Scientist | Machine learning Engineer | [Rite Pros Inc]((http://www.ritepros.com/index.php))|[Client: Rawcubes](https://www.rawcubes.com/)** 
 <br>
 * Define customer needs and objectives in building hybrid lakes in the context of capturing data in the landing zone, data cleaning, data munging for analytical models.
 * Assist and participate in the configuration of inbuilt features as strategy builder, strategy processor, discover sources of ingestion, create a relevant workflow for data processing, define schema comparator parameters, create data pipeline.
