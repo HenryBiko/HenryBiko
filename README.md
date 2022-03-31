@@ -9,11 +9,14 @@ I also relish the challenge of engaging with projects that require me to work ou
 ## Current Position & Projects
 **Data Scientist | Machine learning Engineer | [Rite Pros Inc](http://www.ritepros.com/index.php)|[Client: Rawcubes](https://www.rawcubes.com/)** 
 <br>
-* Define customer needs and objectives in building hybrid lakes in the context of capturing data in the landing zone, data cleaning, data munging for analytical models.
-* Assist and participate in the configuration of inbuilt features as strategy builder, strategy processor, discover sources of ingestion, create a relevant workflow for data processing, define schema comparator parameters, create data pipeline.
-* Design and develop complex data pipelines to enrich existing ELT processes.
-Support the standardization, customization, and development mechanisms to ingest, analyze, validate, normalize and clean data.
-Manage version control branches and tags on code repositories to ensure that the most current version of the software includes all the necessary updates.
+* Contributed to configuring inbuilt features as strategy builder and processor, discovering sources of ingestion, creating a relevant workflow for data processing, defining schema comparator parameters, and creating a data pipeline.
+
+* Support the standardization, customization, and development mechanisms to ingest, analyze, validate, normalize and clean data for analytical models.
+
+* Developed custom solutions to address specific data quality requests, e.g an automated weekly report in a given data feed
+
+* Analyzed data using python to derive insights and identify new growth opportunities. 
+
 
 
 ## [Skills and Expertise](https://github.com/HenryBiko?tab=repositories)
