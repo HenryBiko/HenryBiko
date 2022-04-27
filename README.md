@@ -7,6 +7,16 @@ I enjoy bridging the gap between analytics and decision-making — combining my 
 I also relish the challenge of engaging with projects that require me to work outside my comfort zone and knowledge set, as I continue to learn new languages and development techniques
 
 ## Current Position & Projects
+**Data Analyst | [Google](https://goo.gle/3m1IN7m)** 
+<br>
+*
+
+*
+
+*
+
+*
+## Former Position & Projects
 **Data Scientist | Machine learning Engineer | [Rite Pros Inc](http://www.ritepros.com/index.php)|[Client: Rawcubes](https://www.rawcubes.com/)** 
 <br>
 * Contributed to configuring inbuilt features as strategy builder and processor, discovering sources of ingestion, creating a relevant workflow for data processing, defining schema comparator parameters, and creating a data pipeline.
