@@ -9,6 +9,7 @@ I also relish the challenge of engaging with projects that require me to work ou
 ## Current Position & Projects
 **Data Analyst | [Google](https://goo.gle/3m1IN7m)** 
 <br>
+
 *
 
 *
