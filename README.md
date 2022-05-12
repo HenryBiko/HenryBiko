@@ -7,7 +7,7 @@ I enjoy bridging the gap between analytics and decision-making — combining my 
 I also relish the challenge of engaging with projects that require me to work outside my comfort zone and knowledge set, as I continue to learn new languages and development techniques
 
 ## Current Position & Projects
-**Data Analyst |[Arkobi](https://akorbi.com/)|Client [Google](https://goo.gle/3m1IN7m)** 
+**Data Analyst |[Arkobi](https://akorbi.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
 <br>
 
 *
