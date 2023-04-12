@@ -10,13 +10,10 @@ I also relish the challenge of engaging with projects that require me to work ou
 **Data Analyst |[Arkobi](https://akorbi.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
 <br>
 
-*
+* Collaborated with stakeholders to design and build a youtube measurement program (YTMP) revenue dashboard and pipeline that cuts projected time for   analysis and displays revenue growth performance across markets and 10+ other key metrics that enhance executive visibility to business operations
 
-*
+* Identified new growth opportunities across the youtube measurement program using financial and behavioral analysis, enabling the marketing team to target their customers better.
 
-*
-
-*
 ## Former Position & Projects
 **Data Scientist | Machine learning Engineer | [Rite Pros Inc](http://www.ritepros.com/index.php)|[Client: Rawcubes](https://www.rawcubes.com/)** 
 <br>
