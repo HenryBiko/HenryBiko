@@ -9,6 +9,7 @@ I am a Data Scientist and Machine Learning Engineer with a background in AI, dat
 ## Former Position & Projects
 **Data Analyst |[Arkobi](https://akorbi.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
 <br>
+
 *Collaborated with stakeholders to build YTMP revenue dashboard and SQL pipeline using PLX Dashboards, tracking 10+ key metrics and reducing analysis time by 80% while enhancing executive visibility into market revenue growth.
 
 *Achieved 99% data accuracy by processing and cleaning data in SQL, utilizing advanced interpolation techniques to complete missing data. This enabled more accurate and reliable analysis, resulting in improved decision-making.
