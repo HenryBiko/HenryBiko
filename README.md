@@ -4,7 +4,21 @@ I am a Data Scientist and Machine Learning Engineer with a background in AI, dat
 
 ## Current Position & Projects
 
+Data Analyst / Data Scientist – Libertycom (C2C Consulting Roles)
+Clients: Google, Twin Health | Various U.S. Locations Feb 2024 – Present
+Google (YouTube, Core Product, Google Cloud)
+<br>
 
+**Business Intelligence Analyst| Client -> [Google](https://goo.gle/3m1IN7m) (Contracted by Libertycom)**
+
+* Implemented a SQL and PLX Dashboard-based subscriber cohort survival analysis over 6-month periods for 500K+ subscribers, translating analytical insights into strategic recommendations that refined marketing spend by $10.8M and * increased customer lifetime value by 25%.
+* Engineered an automated system in SQL to detect geo-pricing arbitrage, identifying subscription pricing inconsistencies and recovering $500K+ in revenue, demonstrating robust data integrity monitoring and actionable process improvement.
+
+**Data Scientist |Client -> [Twin Health](https://usa.twinhealth.com/)(Contracted by Libertycom)**
+
+* Developed Python-driven data validation pipelines and SQL quality checks, reducing customer data errors by 25% while enhancing predictive analytics and regulatory compliance in a dynamic, cross-functional setting.
+* Applied advanced data cleaning and statistical validation techniques in SQL and Python to create interactive Plotly visualizations for detailed customer segmentation, supporting objective analysis for marketing strategies, and a 20% increase in customer engagement.
+* Designed and executed A/B testing frameworks to evaluate marketing strategies, employing statistical significance testing to drive decisions that boosted conversion rates by 15% and optimized ad spend allocation.
 
 ## Former Position & Projects
 **Data Analyst |[Arkobi](https://akorbi.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
