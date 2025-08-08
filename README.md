@@ -1,16 +1,12 @@
 ### Hi there I am [Henry](https://www.linkedin.com/in/henrybiko/) 👋
 ![Alt Text](https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif)<br><br>
-I am  a Data Scientist and Machine Learning Engineer with a degree in Computational Science from Minerva University: Concentrations(Artificial Intelligence, Applied Problem Solving & Data Science and Statistics)
-
-I enjoy bridging the gap between analytics and decision-making — combining my technical knowledge and passion for solving problems and identifying patterns within data. For the past four years, I have traveled the world with my school working on different projects such as time series predicting carbon emission by 2030, cloth image classification with TensorFlow, simulation of physical systems, sentiment-analysis with Natural Language processing. 
-
-I also relish the challenge of engaging with projects that require me to work outside my comfort zone and knowledge set, as I continue to learn new languages and development techniques
+I am a Data Scientist and Machine Learning Engineer with a background in AI, data science, and applied problem solving. At Google, I built automated SQL systems that recovered over $500K in subscription revenue and developed dashboards that improved executive decision-making. At Twin Health, I increased customer retention by 25 percent and boosted conversion rates by 15 percent through A/B testing and predictive analytics. At Salesforce, my Tableau dashboards helped improve feature adoption by 12 percent and reduce user churn. My experience also includes forecasting carbon emissions, image classification, and sentiment analysis. I bring strong skills in Python, SQL, and tools like Tableau, Looker Studio, and PLX Dashboards to turn complex data into clear and actionable insights that drive business growth.
 
 ## Current Position & Projects
 **Data Analyst |[Arkobi](https://akorbi.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
 <br>
-* Collaborated with stakeholders and cross functional teams to design and build a youtube measurement program (YTMP) revenue dashboard and pipeline that cuts projected time for analysis and displays revenue growth performance across markets and 10+ other key metrics that enhance executive visibility to business operations
-* Identified new growth opportunities across the youtube measurement program using financial and behavioral analysis, enabling the marketing team to target their customers better.
+* Collaborated with stakeholders and cross-functional teams to design and build a YouTube measurement program (YTMP) revenue dashboard and pipeline that cuts projected time for analysis and displays revenue growth performance across markets and 10+ other key metrics that enhance executive visibility to business operations
+* Identified new growth opportunities across the YouTube measurement program using financial and behavioral analysis, enabling the marketing team to target their customers better.
 
 
 ## Former Position & Projects
@@ -22,7 +18,7 @@ I also relish the challenge of engaging with projects that require me to work ou
 
 * Developed custom solutions to address specific data quality requests, e.g an automated weekly report in a given data feed
 
-* Analyzed data using python to derive insights and identify new growth opportunities. 
+* Analyzed data using Python to derive insights and identify new growth opportunities. 
 
 
 
