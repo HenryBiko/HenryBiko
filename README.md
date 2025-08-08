@@ -11,7 +11,8 @@ Google (YouTube, Core Product, Google Cloud)
 
 **Business Intelligence Analyst| Client -> [Google](https://goo.gle/3m1IN7m) (Contracted by Libertycom)**
 
-* Implemented a SQL and PLX Dashboard-based subscriber cohort survival analysis over 6-month periods for 500K+ subscribers, translating analytical insights into strategic recommendations that refined marketing spend by $10.8M and * increased customer lifetime value by 25%.
+* Implemented a SQL and PLX Dashboard-based subscriber cohort survival analysis over 6-month periods for 500K+ subscribers, translating analytical insights into strategic recommendations that refined marketing spend by $10.8M and
+ increased customer lifetime value by 25%.
 * Engineered an automated system in SQL to detect geo-pricing arbitrage, identifying subscription pricing inconsistencies and recovering $500K+ in revenue, demonstrating robust data integrity monitoring and actionable process improvement.
 
 **Data Scientist |Client -> [Twin Health](https://usa.twinhealth.com/)(Contracted by Libertycom)**
