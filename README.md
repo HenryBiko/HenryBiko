@@ -21,6 +21,22 @@ Google (YouTube, Core Product, Google Cloud)
 * Designed and executed A/B testing frameworks to evaluate marketing strategies, employing statistical significance testing to drive decisions that boosted conversion rates by 15% and optimized ad spend allocation.
 
 ## Former Position & Projects
+
+**Senior Product  Data Analyst  |[Swoon](https://www.swoonstaffing.com/)| Client -> [Salesforce](https://www.salesforce.com/)** 
+<br>
+
+* Collaborated with product teams to analyze user engagement metrics and conversion bottlenecks. Built Tableau dashboards tracking product KPIs, increasing feature adoption by 12% and reducing user churn.
+* Integrated product usage data with analytics platforms via automated SQL pipelines for real-time feature performance monitoring. Enabled rapid product iterations that achieved 5%+ QoQ active user growth.
+* Led cross-functional product experimentation, designing A/B testing frameworks, and user journey analysis. Improved core product flows and generated 15%+ YOY user retention improvements.
+
+**Data Analyst II |[Artech](https://www.artech.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
+<br>
+
+* Analyzed growth and user feedback of Google products (Gmail, Meet, Drive) using SQL and Python, delivering a report with key insights that informed marketing and product teams, leading to a 20% increase in product ratings through feedback integration.
+* Developed gUP cloud support reporting dashboard and data pipeline using SQL and PLX dashboards, delivering key performance insights to leadership that expedited decision-making and improved product operations efficiency.
+* Developed a project management dashboard for gUP using Google Sheets and Looker Studio to track OKRs, providing real-time visibility into project progress and enabling a 30% improvement in resource allocation efficiency and workforce 
+
+
 **Data Analyst |[Arkobi](https://akorbi.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
 <br>
 
