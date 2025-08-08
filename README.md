@@ -4,9 +4,9 @@ I am a Data Scientist and Machine Learning Engineer with a background in AI, dat
 
 ## Current Position & Projects
 
-Data Analyst / Data Scientist – Libertycom (C2C Consulting Roles)
-Clients: Google, Twin Health | Various U.S. Locations Feb 2024 – Present
-Google (YouTube, Core Product, Google Cloud)
+** Data Analyst / Data Scientist – Libertycom (C2C Consulting Roles)** 
+* Clients: Google, Twin Health | Various U.S. Locations 
+* Tenure: Feb 2024 – Present
 <br>
 
 **Business Intelligence Analyst| Client -> [Google](https://goo.gle/3m1IN7m) (Contracted by Libertycom)**
