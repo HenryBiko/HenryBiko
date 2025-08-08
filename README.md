@@ -10,11 +10,11 @@ I am a Data Scientist and Machine Learning Engineer with a background in AI, dat
 **Data Analyst |[Arkobi](https://akorbi.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
 <br>
 
-*Collaborated with stakeholders to build YTMP revenue dashboard and SQL pipeline using PLX Dashboards, tracking 10+ key metrics and reducing analysis time by 80% while enhancing executive visibility into market revenue growth.
+* Collaborated with stakeholders to build YTMP revenue dashboard and SQL pipeline using PLX Dashboards, tracking 10+ key metrics and reducing analysis time by 80% while enhancing executive visibility into market revenue growth.
 
-*Achieved 99% data accuracy by processing and cleaning data in SQL, utilizing advanced interpolation techniques to complete missing data. This enabled more accurate and reliable analysis, resulting in improved decision-making.
+* Achieved 99% data accuracy by processing and cleaning data in SQL, utilizing advanced interpolation techniques to complete missing data. This enabled more accurate and reliable analysis, resulting in improved decision-making.
 
-*Conducted EDA analysis using Python to identify growth patterns and project future advertisement revenue, enabling strategic insights that drove 10% advertisement growth.
+* Conducted EDA analysis using Python to identify growth patterns and project future advertisement revenue, enabling strategic insights that drove 10% advertisement growth.
 
   
 **Data Scientist | Machine learning Engineer | [Rite Pros Inc](http://www.ritepros.com/index.php)|[Client: Rawcubes](https://www.rawcubes.com/)** 
@@ -23,7 +23,7 @@ I am a Data Scientist and Machine Learning Engineer with a background in AI, dat
 
 * Support the standardization, customization, and development mechanisms to ingest, analyze, validate, normalize and clean data for analytical models.
 
-* Developed custom solutions to address specific data quality requests, e.g an automated weekly report in a given data feed
+* Developed custom solutions to address specific data quality requests, e.g, an automated weekly report in a given data feed
 
 * Analyzed data using Python to derive insights and identify new growth opportunities. 
 
