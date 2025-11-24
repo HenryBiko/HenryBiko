@@ -1,10 +1,10 @@
 ### Hi there I am [Henry](https://www.linkedin.com/in/henrybiko/) 👋
 <br>
-I am a Data Scientist and Machine Learning Engineer with a background in AI, data science, and applied problem solving. At Google, I built automated SQL systems that recovered over $500K in subscription revenue and developed dashboards that improved executive decision-making. At Twin Health, I increased customer retention by 25 percent and boosted conversion rates by 15 percent through A/B testing and predictive analytics. At Salesforce, my Tableau dashboards helped improve feature adoption by 12 percent and reduce user churn. My experience also includes forecasting carbon emissions, image classification, and sentiment analysis. I bring strong skills in Python, SQL, and tools like Tableau, Looker Studio, and PLX Dashboards to turn complex data into clear and actionable insights that drive business growth.
+Analytics Engineer with proven success at top tech companies. Expert in SQL, Python, Tableau, and Looker, with a track record of transforming complex data into actionable insights that drive user activation, retention, and measurable revenue growth across multi-million dollar initiatives
 
 ## Current Position & Projects
 
-**Data Analyst / Data Scientist – Libertycom (C2C Consulting Roles)** 
+**Business Intelligence Analyst/ Data Scientist – Libertycom (C2C Consulting Roles)** 
 * Clients: Google, Twin Health | Various U.S. Locations 
 * Tenure: Feb 2024 – Present
 <br>
