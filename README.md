@@ -1,4 +1,4 @@
-### Hi there I am [Henry](https://www.linkedin.com/in/henrybiko/) 👋
+### Hi there I am [Henry](https://www.linkedin.com/in/henrybiko/) ✋🏽
 <br>
 Analytics Engineer with proven success at top tech companies. Expert in SQL, Python, Tableau, and Looker, with a track record of transforming complex data into actionable insights that drive user activation, retention, and measurable revenue growth across multi-million dollar initiatives
 
