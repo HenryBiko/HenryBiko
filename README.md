@@ -1,6 +1,6 @@
-### Hi there I am [Henry](https://www.linkedin.com/in/henrybiko/) ✋🏽
+### Hi there, I am [Henry](https://www.linkedin.com/in/henrybiko/) ✋🏽
 <br>
-Analytics Engineer with proven success at top tech companies. Expert in SQL, Python, Tableau, and Looker, with a track record of transforming complex data into actionable insights that drive user activation, retention, and measurable revenue growth across multi-million dollar initiatives
+Data Analyst & Business Intelligence Engineer with experience at Google and Salesforce, specializing in retention modeling, experimentation, and revenue growth for subscription and advertising businesses. Delivered $500K+ in revenue recovery and boosted LTV by 25% across 500K+ users using SQL pipelines and advanced statistical models.
 
 ## Current Position & Projects
 
@@ -16,59 +16,54 @@ Analytics Engineer with proven success at top tech companies. Expert in SQL, Pyt
 * Improved data reliability by building automated anomaly detection checks and backfill logic in BigQuery SQL pipelines, reducing reporting errors by 40% and stabilizing data used across 10+ business-critical dashboards
 
 
-**Data Scientist |Client -> [Twin Health](https://usa.twinhealth.com/)(Contracted by Libertycom)**
+**Data Analyst V |Client -> [Twin Health](https://usa.twinhealth.com/)(Contracted by Libertycom)**
 
-* Developed Python-driven data validation pipelines and SQL quality checks, reducing customer data errors by 25% while enhancing predictive analytics and regulatory compliance in a dynamic, cross-functional setting.
-* Applied advanced data cleaning and statistical validation techniques in SQL and Python to create interactive Plotly visualizations for detailed customer segmentation, supporting objective analysis for marketing strategies, and a 20% increase in customer engagement.
-* Designed and executed A/B testing frameworks to evaluate marketing strategies, employing statistical significance testing to drive decisions that boosted conversion rates by 15% and optimized ad spend allocation.
+* Built Python and SQL validation frameworks across customer datasets, reducing data errors by 25% and improving model accuracy by 18%; enabled audit-ready reporting used in compliance reviews and regulatory submissions
+* Developed Tableau dashboards tracking acquisition and product KPIs; identified underperforming channels and reallocated spend, driving 5% MoM user growth and reducing CPA by 12% across paid and organic channels
+* Designed and analyzed A/B tests on onboarding and feature flows; identified high-impact changes that increased conversion by 15% and drove 5% QoQ user growth, informing roadmap prioritization and activation strategy
+
 
 ## Former Position & Projects
 
 **Senior Product  Data Analyst  |[Swoon](https://www.swoonstaffing.com/)| Client -> [Salesforce](https://www.salesforce.com/)** 
 <br>
 
-* Collaborated with product teams to analyze user engagement metrics and conversion bottlenecks. Built Tableau dashboards tracking product KPIs, increasing feature adoption by 12% and reducing user churn.
-* Integrated product usage data with analytics platforms via automated SQL pipelines for real-time feature performance monitoring. Enabled rapid product iterations that achieved 5%+ QoQ active user growth.
-* Led cross-functional product experimentation, designing A/B testing frameworks, and user journey analysis. Improved core product flows and generated 15%+ YOY user retention improvements.
+* Built ad hoc analyses using Snowflake SQL and Google Sheets to evaluate product and revenue trends; developed automated reports and tracking, reducing reporting turnaround time by 30% and enabling faster weekly decisions
+* Developed Tableau dashboards with SQL data models to track 10+ growth KPIs; identified adoption bottlenecks and informed fixes that increased feature adoption by 12% and reduced churn by 5% across key user cohorts
+* Designed and analyzed A/B tests on signup flows using SQL; reduced friction in form inputs, increasing conversion by 10% and driving 6% QoQ user growth across 100K+ traffic, informing acquisition strategy decisions
+
 
 **Data Analyst II |[Artech](https://www.artech.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
 <br>
 
-* Analyzed growth and user feedback of Google products (Gmail, Meet, Drive) using SQL and Python, delivering a report with key insights that informed marketing and product teams, leading to a 20% increase in product ratings through feedback integration.
-* Developed gUP cloud support reporting dashboard and data pipeline using SQL and PLX dashboards, delivering key performance insights to leadership that expedited decision-making and improved product operations efficiency.
-* Developed a project management dashboard for gUP using Google Sheets and Looker Studio to track OKRs, providing real-time visibility into project progress and enabling a 30% improvement in resource allocation efficiency and workforce 
-
+* Analyzed GCP  growth and feedback (1M+ users) using SQL and Python, identifying key drivers of low ratings; delivered insights and dashboards that influenced product and marketing decisions, increasing ratings by 20% in one quarter.
+* Built an automated BI framework using Google Sheets, SQL, and PLX dashboards to track 10+ teams’ project status and pipeline, reducing manual reporting 80% and enabling data-driven OKR tracking and quarterly resource allocation
+* Standardized onboarding documentation and built automated SQL pipelines for GCP revenue dashboards, reducing manual analysis time by 80% and enabling faster, self-service insights for executive stakeholders and cross-functional teams.
 
 **Data Analyst |[Arkobi](https://akorbi.com/)| Client -> [Google](https://goo.gle/3m1IN7m)** 
 <br>
+* Analyzed 4 years of YTMP advertiser data using SQL and Python, segmenting into new, churned, and retained cohorts; ruled out CPM as churn driver via statistical tests and identified demand shifts, reducing churn by 8% across segments
+* Performed EDA on YTMP advertiser trends using Python, identifying demand shifts during and post-COVID; uncovered high-growth markets, enabling targeted campaigns that reduced spend by 15% and increased revenue by 10%
+* Partnered with cross-functional teams to define YTMP KPIs; built BigQuery SQL pipelines and cleaned datasets powering PLX dashboards, enabling weekly reporting for 10+ stakeholders and reducing decision time by 30%
 
-* Collaborated with stakeholders to build YTMP revenue dashboard and SQL pipeline using PLX Dashboards, tracking 10+ key metrics and reducing analysis time by 80% while enhancing executive visibility into market revenue growth.
-
-* Achieved 99% data accuracy by processing and cleaning data in SQL, utilizing advanced interpolation techniques to complete missing data. This enabled more accurate and reliable analysis, resulting in improved decision-making.
-
-* Conducted EDA analysis using Python to identify growth patterns and project future advertisement revenue, enabling strategic insights that drove 10% advertisement growth.
-
-  
 **Data Scientist | Machine learning Engineer | [Rite Pros Inc](http://www.ritepros.com/index.php)|[Client: Rawcubes](https://www.rawcubes.com/)** 
 <br>
-* Contributed to configuring inbuilt features as strategy builder and processor, discovering sources of ingestion, creating a relevant workflow for data processing, defining schema comparator parameters, and creating a data pipeline.
-
-* Support the standardization, customization, and development mechanisms to ingest, analyze, validate, normalize and clean data for analytical models.
-
-* Developed custom solutions to address specific data quality requests, e.g, an automated weekly report in a given data feed
-
-* Analyzed data using Python to derive insights and identify new growth opportunities. 
-
-
+* Built a risk-assessment data pipeline using SQL, incorporating behavioral analytics components, creating fraud-detection workflows that improved Tableau dashboard performance and enabled real-time product trust monitoring.
+* Standardized data ingestion, validation, and transformation workflows using Python and SQL, improving data quality and reducing processing time for analytical models used in reporting and decision-making
+* Built a SQL and Tableau dashboard to monitor GM sales performance, delivering insights that informed pricing strategy and improved sales forecasting accuracy by 15% year over year
 
 ## [Skills and Expertise](https://github.com/HenryBiko?tab=repositories)
-**Programming Languages**:Python (Pandas, NumPy, Matplotlib, Scikit-learn, PySpark, Sympy, Tensorflow, Seaborn, Shap, Keras, Scipy) R, HTML, Matlab, Octave, MySQL, PHP, SQL
+**Programming Languages**: Python (Pandas, NumPy, Scikit-learn, PySpark), SQL (PostgreSQL, MySQL)
+<br><br>
+**Data Visualization**: Tableau, Looker, Google PLX Python’s Plotly & Matplotlib, Google Sheets (Advanced)
+<br><br>
+**Data Analytics**: A/B Testing, Cohort Analysis, Retention Modeling, Survival Analysis, Statistical Inference
 <br><br>
 **Machine Learning**: Supervised Learning (Linear Models, Tree-based Models), Unsupervised Learning (Clustering, PCA)
 <br><br>
-**Frameworks & Other**:Docker, Flask, Plotly Dash, Bootstrap, WordPress, Git, Anaconda, Tableau, Power BI, AWS
+**Frameworks & Other: Docker, Flask, Plotly Dash, Bootstrap, WordPress, Git, Anaconda, Tableau, Power BI, AWS
 <br><br>
-**General Skills:** Data visualization, Statistical Analytics, Data preparations, unit testing, Big Data, CRM, Asana, Excel, Google sheets
+**General Skills:** Data visualization, Statistical Analytics, Data preparation, unit testing, Big Data, CRM, Asana, Excel, Google Sheets
 <br><br>
 **Methodologies:** Agile
 
