@@ -11,9 +11,10 @@ Analytics Engineer with proven success at top tech companies. Expert in SQL, Pyt
 
 **Business Intelligence Analyst| Client -> [Google](https://goo.gle/3m1IN7m) (Contracted by Libertycom)**
 
-* Implemented a SQL and PLX Dashboard-based subscriber cohort survival analysis over 6-month periods for 500K+ subscribers, translating analytical insights into strategic recommendations that refined marketing spend by $10.8M and
- increased customer lifetime value by 25%.
-* Engineered an automated system in SQL to detect geo-pricing arbitrage, identifying subscription pricing inconsistencies and recovering $500K+ in revenue, demonstrating robust data integrity monitoring and actionable process improvement.
+* Optimized $10.8M in marketing spend by leading 12-month retention analysis for 500K+ subscribers. Used survival modeling to identify churn drivers, delivering insights that increased LTV by 25%, guiding targeted campaigns
+* Eliminated global geo-pricing arbitrage using SQL and Python, driving $500K+ in annual revenue recovery and implementing governance controls that prevented recurring revenue leakage and improved pricing integrity.
+* Improved data reliability by building automated anomaly detection checks and backfill logic in BigQuery SQL pipelines, reducing reporting errors by 40% and stabilizing data used across 10+ business-critical dashboards
+
 
 **Data Scientist |Client -> [Twin Health](https://usa.twinhealth.com/)(Contracted by Libertycom)**
 
