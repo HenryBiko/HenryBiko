@@ -1,6 +1,6 @@
 ### Hi there, I am [Henry](https://www.linkedin.com/in/henrybiko/) ✋🏽
 <br>
-Data Analyst & Business Intelligence Engineer with experience at Google and Salesforce, specializing in retention modeling, experimentation, and revenue growth for subscription and advertising businesses. Delivered $500K+ in revenue recovery and boosted LTV by 25% across 500K+ users using SQL pipelines and advanced statistical models.
+Analytic Engineer & Business Intelligence Engineer with experience at Google and Salesforce, specializing in retention modeling, experimentation, and revenue growth for subscription and advertising businesses. Delivered $500K+ in revenue recovery and boosted LTV by 25% across 500K+ users using SQL pipelines and advanced statistical models.
 
 ## Current Position & Projects
 
