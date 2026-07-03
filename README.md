@@ -9,7 +9,7 @@ Analytic Engineer & Business Intelligence Engineer with experience at Google and
 * Tenure: Feb 2024 – Present
 <br>
 
-**Business Intelligence Analyst| Client -> [Google](https://goo.gle/3m1IN7m) (Contracted by Libertycom)**
+**Analytics Engineer| Client -> [Google](https://goo.gle/3m1IN7m) (Contracted by Libertycom)**
 
 * Optimized $10.8M in marketing spend by leading 12-month retention analysis for 500K+ subscribers. Used survival modeling to identify churn drivers, delivering insights that increased LTV by 25%, guiding targeted campaigns
   
@@ -18,7 +18,7 @@ Analytic Engineer & Business Intelligence Engineer with experience at Google and
 * Improved data reliability by building automated anomaly detection checks and backfill logic in BigQuery SQL pipelines, reducing reporting errors by 40% and stabilizing data used across 10+ business-critical dashboards
 
 
-**Data Analyst V |Client -> [Twin Health](https://usa.twinhealth.com/)(Contracted by Libertycom)**
+**Analytics Engineer |Client -> [Twin Health](https://usa.twinhealth.com/)(Contracted by Libertycom)**
 
 * Built Python and SQL validation frameworks across customer datasets, reducing data errors by 25% and improving model accuracy by 18%; enabled audit-ready reporting used in compliance reviews and regulatory submissions
   
@@ -29,7 +29,7 @@ Analytic Engineer & Business Intelligence Engineer with experience at Google and
 
 ## Former Position & Projects
 
-**Senior Product  Data Analyst  |[Swoon](https://www.swoonstaffing.com/)| Client -> [Salesforce](https://www.salesforce.com/)** 
+**Senior Product  Data Analyst/ Analytics Engineer |[Swoon](https://www.swoonstaffing.com/)| Client -> [Salesforce](https://www.salesforce.com/)** 
 <br>
 
 * Built ad hoc analyses using Snowflake SQL and Google Sheets to evaluate product and revenue trends; developed automated reports and tracking, reducing reporting turnaround time by 30% and enabling faster weekly decisions
